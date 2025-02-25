@@ -1,1 +1,1 @@
-# Lung-Disease-Prediction-Deep-CNN-Models-for-Predicting-Lung-Diseases-from-X-ray-Images
+## This project was for the Human Data Analytics Course at the University of Padua. It focused on using deep learning techniques to predict lung diseases from x-ray images, for early detection and diagnosis.
